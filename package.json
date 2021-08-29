@@ -1,5 +1,5 @@
 {
-  "name": "pipeback-app",
+  "name": "template-vite-vue3-typescript-tailwindcss",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -19,6 +19,8 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
+  "author": "Paulo Castellano",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "vue": "^3.2.6",
@@ -37,6 +39,7 @@
     "autoprefixer": "^10.3.3",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
+    "cz-customizable": "^6.3.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.3.0",
