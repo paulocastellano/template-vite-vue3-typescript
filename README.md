@@ -25,8 +25,11 @@ npm run dev
 npm run build
 ```
 
-### husky
+### husky permissions
 
 ```sh
 chmod +x .husky/_
+chmod +x commit-msg
+chmod +x pre-commit
+chmod +x pre-push
 ```
