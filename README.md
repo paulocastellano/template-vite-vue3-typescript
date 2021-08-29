@@ -24,3 +24,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### husky
+
+```sh
+chmod +x .husky/_
+```
