@@ -1,6 +1,11 @@
-# Vite2.x + Vue3.x + TypeScript Starter
+# Template for Front End applications
 
-### install packages
+## This template contains:
+
+- Vite 2
+- Vue 3
+- Typescript
+- Tailwind CSS
 
 ```sh
 npm install
